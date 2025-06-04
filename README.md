@@ -4,7 +4,7 @@
 This repository contains my solution for the BonusLink Senior Data Analyst/Scientist take-home assessment. The objective was to predict member churn using transaction, member, and engagement data.
 
 ## Repository Structure
-- `/assessment/`: PDF answer file for 'ds-assessment-1' and 'ds-case-study-2' assessment.
+- `/assessment/`: PDF answers for 'ds-assessment-1' and 'ds-case-study-2' assessment.
 - `/data/`: Datasets.
 - `/notebooks/`: Jupyter notebooks with implementing the models, feature engineering, and modeling and evaluation.
 
