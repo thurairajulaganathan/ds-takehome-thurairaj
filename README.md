@@ -18,4 +18,4 @@ This repository contains my solution for the BonusLink Senior Data Analyst/Scien
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ds-takehome-thurairaj.git
+   git clone https://github.com/thurairajulaganathan/ds-takehome-thurairaj.git
