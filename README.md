@@ -15,6 +15,10 @@ This repository contains my solution for the BonusLink Senior Data Analyst/Scien
 4. **Evaluation**: Used classification report, ROC AUC, precision-recall curves.
 5. **Explainability**: Applied permutation importance to identify key drivers of churn.
 
+## Results
+Achieved ROC AUC: 0.9978
+Important features: days_since_last_txn, txn_count, spend_amount, engagement metrics.
+
 ## How to Run
 1. Clone this repository:
    ```bash
